@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="./style.css">
+</head>
+<body>
+
+<h1 class="party_2">Quarantine Birthday<p>How can you celebrate your special day from home?</p></h1>
+<img id="cake" src="./images/home_entertainment_images/Cake.jpg"/>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image0.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image1.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image2.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image3.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image4.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image5.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image6.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image7.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image8.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image9.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: block;">
+  <img src="./images/party_images/image10.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image11.jpeg" style="width:200px">
+</div>
+
+<div class="mySlides fade" style="display: none;">
+  <img src="./images/party_images/image12.jpeg" style="width:200px">
+</div>
+
+</div>
+<br>
+
+  <p class="prep"><b>Preparations:</b><br>
+    <br>Cake<br><a href="https://www.amazon.com/s?k=quarantine+birthday+cake&amp;i=handmade&amp;ref=nb_sb_noss_2" target="_blank">Buying a Cake</a><br>
+	<br>Cards:<br><a href="https://www.etsy.com/market/quarantine_birthday_card?ref=rlte_tqd_2" target="_blank">Buying Cards</a><br>
+	<br>Decorations:<br><a href="https://www.today.com/shop/48-quarantine-birthday-ideas-gifts-cards-t179048" target="_blank">Birthday Ideas</a>
+	<br><a href="https://www.pinterest.com/pin/187884615693926834/" target="_blank">Inspiration from Pinterest</a>
+  </p>
+  <a href="./index.html" class=exit_3><img src="./images/icons/home.jpeg" width="80" height="80" title="Home" alt="Home"></a>
+  
+<script>
+var slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  slides[slideIndex-1].style.display = "block";  
+  setTimeout(showSlides, 3000); // Change image every 2 seconds
+}
+</script>
+
+</body></html>
