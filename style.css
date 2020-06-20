@@ -194,79 +194,27 @@ a {
 }
 
 .exit_1 {
-	text-align: center;
-	padding: 5px;
-	color: #ff6b6b;
-	border: 3px solid #ff6b6b;
-	width: 100px;
 	position: relative;
-	bottom: 1820px;
+	bottom: 1800px;
 	left: 10px;
-	border-radius: 15px;
-	background: #ffcccc;
-}
-
-.exit_1:hover {
-	color: #ffcccc;
-	border: 3px solid #ffcccc;
-	background: #ff6b6b;
 }
 
 .exit_2 {
-	text-align: center;
-	padding: 5px;
-	color: #ff6b6b;
-	border: 3px solid #ff6b6b;
-	width: 100px;
 	position: relative;
-	bottom: 825px;
-	left: 10px;
-	border-radius: 15px;
-	background: #ffcccc;
-}
-
-.exit_2:hover {
-	color: #ffcccc;
-	border: 3px solid #ffcccc;
-	background: #ff6b6b;
+	bottom: 990px;
+	right: 900px;
 }
 
 .exit_3 {
-	text-align: center;
-	padding: 5px;
-	color: #ff6b6b;
-	border: 3px solid #ff6b6b;
-	width: 100px;
 	position: relative;
 	bottom: 880px;
 	left: 10px;
-	border-radius: 15px;
-	background: #ffcccc;
-}
-	
-.exit_3:hover {
-	color: #ffcccc;
-	border: 3px solid #ffcccc;
-	background: #ff6b6b;
 }
 
 .exit_4 {
-	text-align: center;
-	padding: 5px;
-	color: #ff6b6b;
-	border: 3px solid #ff6b6b;
-	width: 100px;
 	position: relative;
-	bottom: 780px;
-	left: 10px;
-	border-radius: 15px;
-	background: #ffcccc;
-}
-	
-.exit_4:hover {
-	color: #ffcccc;
-	border: 3px solid #ffcccc;
-	background: #ff6b6b;
+	bottom: 670px;
+	right: 500px;
 }
 
 #candle {
@@ -300,16 +248,16 @@ a {
 
 #halloween {
 	position: relative;
-	bottom: 280px;
+	bottom: 415px;
 	left: 10px;
 	width: 450px;
 }
 
 #spyfall {
 	position: relative;
-	bottom: 230px;
-	left: 420px;
-	width: 350px;
+	bottom: 400px;
+	left: 395px;
+	width: 450px;
 }
 
 #cake {
