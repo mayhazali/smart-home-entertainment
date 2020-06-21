@@ -4,6 +4,9 @@ A website and an alexa skill to help keep people happy at home by providing them
 Here is a link to the website: 
 https://mayhazali.github.io/smart-home-entertainment/
 
+Watch website demo:
+https://youtu.be/6ooiHm2g_iI
+
 # index.html
 This is the home page.
 
