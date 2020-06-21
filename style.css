@@ -1,0 +1,337 @@
+body {
+  background: rgb(255,254,199);
+  background: radial-gradient(circle, rgba(255,254,199,1) 0%, rgba(255,252,155,1) 35%, rgba(255,253,100,1) 100%);
+}
+
+h1 {
+	font-size:50px;
+}
+
+h2 {
+	font-size: 35px;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+p {
+	font-size: 25px;
+}
+
+.title {
+	text-align: center;
+	color: #e387ff;
+	border: 3px solid #e387ff;
+	width: 650px;
+	position: relative;
+	left: 350px;
+	border-radius: 15px;
+	background: #f5d6ff;
+}
+
+.productive {
+	text-align: center;
+	color: #78b7ff;
+	border: 3px solid #78b7ff;
+	width: 350px;
+	position: relative;
+	top: 50px;
+	left: 100px;
+	border-radius: 15px;
+	background: #cce4ff;
+}
+
+.productive:hover {
+	color: #cce4ff;
+	border: 3px solid #cce4ff;
+	background: #78b7ff;
+}
+
+.game {
+	text-align: center;
+	color: #43f03e;
+	border: 3px solid #43f03e;
+	width: 350px;
+	position: relative;
+	bottom: 131px;
+	left: 500px;
+	border-radius: 15px;
+	background: #cdffcc;
+}
+
+.game:hover {
+	color: #cdffcc;
+	border: 3px solid #cdffcc;
+	background: #43f03e;
+}
+
+.party {
+	text-align: center;
+	color: #ff6b6b;
+	border: 3px solid #ff6b6b;
+	width: 350px;
+	position: relative;
+	bottom: 312px;
+	left: 900px;
+	border-radius: 15px;
+	background: #ffcccc;
+}
+
+.party:hover {
+	color: #ffcccc;
+	border: 3px solid #ffcccc;
+	background: #ff6b6b;
+}
+
+.alexa {
+	text-align: center;
+	color: #000000;
+	border: 3px solid #000000;
+	width: 320px;
+	position: relative;
+	bottom: 250px;
+	left: 515px;
+	border-radius: 15px;
+	background: #dbdbdb;
+}
+
+.alexa:hover {
+	color: #dbdbdb;
+	border: 3px solid #dbdbdb;
+	background: #000000;
+}
+
+.productive_2 {
+	text-align: center;
+	color: #78b7ff;
+	border: 3px solid #78b7ff;
+	width: 650px;
+	position: relative;
+	left: 350px;
+	border-radius: 15px;
+	background: #cce4ff;
+}
+
+.web {
+	padding: 15px;
+	color: #78b7ff;
+	border: 3px solid #78b7ff;
+	width: 350px;
+	position: relative;
+	top: 50px;
+	left: 480px;
+	border-radius: 15px;
+	background: #cce4ff;
+}
+
+.game_2 {
+	text-align: center;
+	color: #43f03e;
+	border: 3px solid #43f03e;
+	width: 650px;
+	position: relative;
+	left: 350px;
+	border-radius: 15px;
+	background: #cdffcc;
+}
+
+.web_2 {
+	padding: 15px;
+	color: #43f03e;
+	border: 3px solid #43f03e;
+	width: 350px;
+	position: relative;
+	top: 50px;
+	left: 480px;
+	border-radius: 15px;
+	background: #cdffcc;
+}
+
+.party_2 {
+	text-align: center;
+	color: #ff6b6b;
+	border: 3px solid #ff6b6b;
+	width: 650px;
+	position: relative;
+	left: 350px;
+	border-radius: 15px;
+	background: #ffcccc;
+}
+
+.prep {
+	padding: 15px;
+	color: #ff6b6b;
+	border: 3px solid #ff6b6b;
+	width: 350px;
+	position: relative;
+	bottom: 300px;
+	left: 480px;
+	border-radius: 15px;
+	background: #ffcccc;
+}
+
+a {
+	text-decoration: none;
+}
+
+ .web_2 a {
+	color: #43f03e;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+ .web a {
+	color: #78b7ff;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+.prep a {
+	color: #ff6b6b;
+	text-decoration: underline;
+	font-size: 20px;
+}
+
+.exit_1 {
+	position: relative;
+	bottom: 1800px;
+	left: 10px;
+}
+
+.exit_2 {
+	position: relative;
+	bottom: 990px;
+	right: 900px;
+}
+
+.exit_3 {
+	position: relative;
+	bottom: 880px;
+	left: 10px;
+}
+
+.exit_4 {
+	position: relative;
+	bottom: 670px;
+	right: 500px;
+}
+
+#candle {
+	position: relative;
+	bottom: 1300px;
+	left: 150px;
+}
+
+#cooking {
+	position: relative;
+	bottom: 1100px;
+	left: 730px;}
+	
+#dancing {
+	position: relative;
+	bottom: 800px;
+	right: 350px;
+}
+
+#chess {
+	position: relative;
+	bottom: 600px;
+	left: 230px;
+}
+
+#meditation {
+	position: relative;
+	bottom: 300px;
+	right: 880px;
+}
+
+#halloween {
+	position: relative;
+	bottom: 415px;
+	left: 10px;
+	width: 450px;
+}
+
+#spyfall {
+	position: relative;
+	bottom: 400px;
+	left: 395px;
+	width: 450px;
+}
+
+#cake {
+	position: relative;
+	top: 40px;
+	left: 230px;
+}
+
+* {box-sizing: border-box;}
+.mySlides {display: none;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 500px;
+  margin: auto;
+}
+
+.active {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+.slideshow-container {
+	position: fixed;
+	left: 900px;
+	bottom: 50px;
+}
+
+#alexa_heading {
+	position: relative;
+	top: 50px;
+	left: 420px;
+	width: 500px;
+	z-index: 2;
+}
+
+#alexa_text {
+	text-align: center;
+	color: #000000;
+	border: 3px solid #000000;
+	width: 650px;
+	position: relative;
+	bottom: 130px;
+	left: 350px;
+	border-radius: 15px;
+	background: #f5f5f5;
+	z-index: 1;
+	padding-top: 200px;
+	padding-bottom: 200px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#alexa_command {
+	position: relative;
+	bottom: 300px;
+	left: 420px;
+	width: 500px;
+	z-index: 2;
+}
